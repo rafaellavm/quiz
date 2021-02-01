@@ -9,7 +9,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
 
       </header>
-      <h1 className="App-intro">Jogo de Perguntas e Respostas</h1>
+      <h1 className="App-intro">Bem-vindo</h1>
       <Inicio />
 
     </div>
