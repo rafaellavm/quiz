@@ -7,10 +7,13 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
-       
+
       </header>
-      <Inicio/>
+      <h1 className="App-intro">Jogo de Perguntas e Respostas</h1>
+      <Inicio />
+
     </div>
+
   );
 }
 
