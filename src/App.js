@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import Inicio from './Home/Inicio'
-import Categorias from './Jogo/Categoria'
+import Categorias from './Jogo/Categorias'
 
 function App() {
   return (
