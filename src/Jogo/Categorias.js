@@ -2,8 +2,6 @@ import React, { Component } from 'react'
 import { Grid, Segment, Header, Icon } from 'semantic-ui-react'
 import Categoria from './Categoria'
 
-
-
 class Categorias extends Component {
     render() {
         return (

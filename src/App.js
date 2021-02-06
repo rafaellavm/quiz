@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 import Inicio from './Home/Inicio'
 import Categorias from './Jogo/Categorias'
+import Perguntas from './Jogo/Perguntas'
 
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
         <h1>Jogo de Perguntas e Respostas</h1>
       </header>
       <h1 className="App-intro">Bem-vindo</h1>
-      <Categorias />
+      <Perguntas />
 
     </div>
 
